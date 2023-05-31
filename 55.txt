@@ -48,7 +48,7 @@ World of Tanks Blitz
 
 <p>По состоянию на июнь 2018 года World of Tanks Blitz была скачана более 100 миллионов раз.</p>
 
-26 августа 2020 игра вышла на консоль Nintendo Switch.
+<S>26 августа 2020 игра вышла на консоль Nintendo Switch.</S>
 </left><br><br><br></td>
 </tr>
 <tr>
