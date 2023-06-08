@@ -6,7 +6,7 @@
 <TABLE BORDER="1" WIDTH="1450">
 <TR>
 <TD WIDTH="15%" HEIGHT="75px" valign="middle"><center>
-<IMG scr="Logo.png" alt="Wot Express">
+<IMG src="Logo.png" alt="Wot Express">
 </center></td>
 <td width="25%"><center>
 <font size="4" color="#ff0000"> <b>WoT Express</b> <br> </font>
